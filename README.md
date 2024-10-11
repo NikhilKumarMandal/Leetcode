@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0200-number-of-islands) |
+| [0871-keys-and-rooms](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0200-number-of-islands) |
+| [0871-keys-and-rooms](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0871-keys-and-rooms) |
 ## Union Find
 |  |
 | ------- |
@@ -21,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0200-number-of-islands) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
