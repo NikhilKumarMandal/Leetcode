@@ -37,4 +37,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0871-keys-and-rooms](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1916-find-center-of-star-graph](https://github.com/NikhilKumarMandal/Leetcode/tree/master/1916-find-center-of-star-graph) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
