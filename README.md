@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0733-flood-fill) |
 ## Depth-First Search
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0871-keys-and-rooms) |
 ## Union Find
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0322-coin-change) |
 | [1236-n-th-tribonacci-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
