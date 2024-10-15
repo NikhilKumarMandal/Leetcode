@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0733-flood-fill) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/NikhilKumarMandal/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/NikhilKumarMandal/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/NikhilKumarMandal/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/NikhilKumarMandal/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
