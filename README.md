@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0268-missing-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0268-missing-number) |
 ## Tree
