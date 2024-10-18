@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -63,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
@@ -133,9 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0268-missing-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NikhilKumarMandal/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NikhilKumarMandal/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
