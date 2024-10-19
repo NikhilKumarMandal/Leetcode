@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -136,12 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0268-missing-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NikhilKumarMandal/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
