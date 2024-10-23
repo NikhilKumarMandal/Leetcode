@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0268-missing-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -154,14 +156,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0169-majority-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NikhilKumarMandal/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
