@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0200-number-of-islands) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0322-coin-change) |
 | [1236-n-th-tribonacci-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
