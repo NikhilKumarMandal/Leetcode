@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0202-happy-number) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
