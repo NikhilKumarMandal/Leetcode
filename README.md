@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0394-decode-string) |
 | [0874-backspace-string-compare](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/NikhilKumarMandal/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Math
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0394-decode-string](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0394-decode-string) |
 | [0874-backspace-string-compare](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/NikhilKumarMandal/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/NikhilKumarMandal/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0394-decode-string) |
 ## Design
 |  |
 | ------- |
