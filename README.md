@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0394-decode-string) |
 | [0874-backspace-string-compare](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/NikhilKumarMandal/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/NikhilKumarMandal/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0224-basic-calculator](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0394-decode-string) |
 | [0874-backspace-string-compare](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/NikhilKumarMandal/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/NikhilKumarMandal/Leetcode/tree/master/0394-decode-string) |
 ## Design
 |  |
